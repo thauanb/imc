@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "imc",
+    "slug": "snack-01999f0b-bdfb-4802-a893-63f3dec3ae85",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.chaos2055.snack01999f0bbdfb4802a89363f3dec3ae85"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
